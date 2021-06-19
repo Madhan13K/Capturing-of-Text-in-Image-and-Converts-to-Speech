@@ -1,0 +1,1 @@
+# Capturing-of-Text-in-Image-and-Converts-to-Speech
